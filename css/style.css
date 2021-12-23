@@ -1,0 +1,29 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    background-color: #57CE81;
+}
+
+.quem-somos {
+    background-color: #D1F9B8;
+    color: rgb(66, 66, 66);
+}
+
+.margin {
+    padding: 40px 0;
+}
+
+.parceiros {
+    background-color: #E3FBD3;
+}
+
+.col-lg-4 > img {
+    margin-top: 10px;
+}
+
+.bg-footer {
+    background-color: rgb(41, 40, 40);
+    color: white;
+}
